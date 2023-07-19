@@ -11,7 +11,7 @@
     "10": "Now, we want to calculate {input}. It is",
     "11": "The expression \"{input}\" can be calculated via the following: ",
     "12": "We now solve for {input}: ",
-    "13": "Calculating {input} is simple:"
+    "13": "Calculating {input} is simple:",
     "14": "{input} = ",
     "15": "{input}=",
     "16": "The solution to {input} is ",
@@ -48,5 +48,5 @@
     "47": "The value of {input} is obviously ",
     "48": "It is clear that the value of {input} is ",
     "49": "Solving for {input} is trivial: ",
-    "50": "We'll use scratchwork to calculate {input} step-by-step. ",
+    "50": "We'll use scratchwork to calculate {input} step-by-step. "
 }
